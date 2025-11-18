@@ -2,91 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-11-09T18:34:07+00:00</lastmod>
+		<lastmod>2025-11-18T18:06:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/ensaio-realista-em-paris/</loc>
-		<lastmod>2025-11-06T18:02:46+00:00</lastmod>
+		<loc>/transforme-sua-foto-em-um-desenho-feito-a-mao/</loc>
+		<lastmod>2025-11-18T18:02:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ensaio-realista-em-paris.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/11/desenho-a-mao.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ensaio-realista-em-paris.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/ensaio-com-lady-gaga/</loc>
-		<lastmod>2025-11-06T18:24:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ensaio-com-lady-gaga.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ensaio-com-lady-gaga.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/retrato-realista-com-luz-natural/</loc>
-		<lastmod>2025-11-08T15:05:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-realista-com-luz-natural.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-realista-com-luz-natural.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/retrato-de-estudio-profissional/</loc>
-		<lastmod>2025-11-08T15:28:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-de-estudio-profissional.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-de-estudio-profissional.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/retrato-na-times-square/</loc>
-		<lastmod>2025-11-08T15:38:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-na-times-square.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/retrato-na-times-square.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/transformacao-em-boneco-funko/</loc>
-		<lastmod>2025-11-08T16:38:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/transformacao-em-boneco-funko.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/transformacao-em-boneco-funko.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/transformacao-em-personagem-3d/</loc>
-		<lastmod>2025-11-08T16:42:41+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/transformacao-em-personagem-3d.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/transformacao-em-personagem-3d.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/cartao-colecionavel-da-selecao-brasileira-com-seu-rosto/</loc>
-		<lastmod>2025-11-09T18:02:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/cartao-colecionavel-jogador.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/cartao-colecionavel-jogador.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/11/desenho-a-mao.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/carta-super-trunfo-personalizada-com-seu-rosto/</loc>
-		<lastmod>2025-11-09T18:25:42+00:00</lastmod>
+		<lastmod>2025-11-18T18:03:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/11/carta-super-trunfo.png</image:loc>
 		</image:image>
@@ -95,13 +25,83 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/transforme-sua-foto-em-um-desenho-feito-a-mao/</loc>
-		<lastmod>2025-11-09T18:34:07+00:00</lastmod>
+		<loc>/cartao-colecionavel-da-selecao-brasileira-com-seu-rosto/</loc>
+		<lastmod>2025-11-18T18:03:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/desenho-a-mao.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/11/cartao-colecionavel-jogador.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/desenho-a-mao.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/11/cartao-colecionavel-jogador.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/transformacao-em-personagem-3d/</loc>
+		<lastmod>2025-11-18T18:03:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/transformacao-em-personagem-3d.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/transformacao-em-personagem-3d.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/transformacao-em-boneco-funko/</loc>
+		<lastmod>2025-11-18T18:04:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/transformacao-em-boneco-funko.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/transformacao-em-boneco-funko.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/retrato-na-times-square/</loc>
+		<lastmod>2025-11-18T18:04:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-na-times-square.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-na-times-square.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/retrato-de-estudio-profissional/</loc>
+		<lastmod>2025-11-18T18:05:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-de-estudio-profissional.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-de-estudio-profissional.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/retrato-realista-com-luz-natural/</loc>
+		<lastmod>2025-11-18T18:05:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-realista-com-luz-natural.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/retrato-realista-com-luz-natural.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ensaio-com-lady-gaga/</loc>
+		<lastmod>2025-11-18T18:05:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ensaio-com-lady-gaga.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ensaio-com-lady-gaga.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ensaio-realista-em-paris/</loc>
+		<lastmod>2025-11-18T18:06:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ensaio-realista-em-paris.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ensaio-realista-em-paris.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
