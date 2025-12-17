@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/empreendedorismo/</loc>
+		<loc>/prompts/empreendedorismo/</loc>
 		<lastmod>2025-12-16T18:50:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/financas/</loc>
+		<loc>/prompts/financas/</loc>
 		<lastmod>2025-12-16T18:51:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/marketing-digital/</loc>
+		<loc>/prompts/marketing-digital/</loc>
 		<lastmod>2025-12-16T18:52:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/produtividade/</loc>
+		<loc>/prompts/produtividade/</loc>
 		<lastmod>2025-12-16T18:54:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/vendas/</loc>
+		<loc>/prompts/vendas/</loc>
 		<lastmod>2025-12-16T18:55:41+00:00</lastmod>
 	</url>
 </urlset>
